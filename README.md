@@ -4,7 +4,7 @@ This repository contains code of predicting student dropout using data science m
 # DATASET OVERVIEW
 This dataset contains data from a higher education institution on various variables related to undergraduate students, including demographics, social-economic factors, and academic performance, to investigate the impact of these factors on student dropout and academic success
 # DATASET USED
-To adress the classification dataset is from kaggle.
+To adress the prediciton dataset is from kaggle.
 # TOOLS USED
    *Pandas
    *Numpy
